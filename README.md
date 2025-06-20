@@ -50,10 +50,3 @@ The core deliverable for this task is the Google Colab / Jupyter Notebook (`FUTU
 * Clear and annotated plots showing feature distributions, relationships with churn, confusion matrices, and ROC curves.
 * Detailed Markdown cells providing explanations for each step, observations from EDA, model choices, evaluation results, and derived business insights.
 
-## How to Run
-To run this notebook and explore the Churn Prediction System:
-
-### 1. Clone this repository: (Optional, if you prefer direct upload from Colab, you can skip this)
-   ```bash
-   git clone [https://github.com/YourGitHubUsername/FUTURE_ML_02.git](https://github.com/YourGitHubUsername/FUTURE_ML_02.git)
-   cd FUTURE_ML_02
